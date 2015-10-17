@@ -33,6 +33,9 @@ share:
 # if share.facebook is true, provide your facebook app id
 facebook_app_id: 730635297031262
 
+# if you have a Twitter account, provide your twitter username (without the @ character) for a better formatted Twitter Card share
+twitter_username: BernardoPachec0
+
 # if share.disqus is true, provide your disqus shortname, the api key and the number of comments to display
 disqus_username: bernardopacheco
 disqus_api_key: o2szu05bLNqiXiRvqe2oFvIHYYVR24eVkQiGs5WHcj0VUnvF8GCqD9HQUZErwCe7

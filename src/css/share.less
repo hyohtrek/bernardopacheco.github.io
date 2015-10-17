@@ -5,17 +5,7 @@
   margin-left: 0;
   margin-right: 0;
 
-  .share-title {
-
-    color: @secondary-text;
-    font-size: ( 16px / @font-size-base ) * 1em;
-    font-weight: normal;
-  }
-
   .share-social-medias {
-
-    margin-top: 10px;
-    margin-bottom: 0;
 
     li {
       vertical-align: top;
@@ -27,7 +17,9 @@
 
     .facebook-social-media {
       width: 105px;
+      /* Facebook hack to align share button */
       margin-top: -6px;
+      vertical-align: super;
     }
 
     .google-plus-social-media {
